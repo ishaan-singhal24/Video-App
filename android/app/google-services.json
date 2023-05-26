@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480648841115",
+    "project_id": "phone-firebase-8d315",
+    "storage_bucket": "phone-firebase-8d315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480648841115:android:fc71ae3357f9417cf2033e",
+        "android_client_info": {
+          "package_name": "com.example.video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480648841115-s5e2i979jhvmkjrq4cni5sft8su9p9f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSP82Qq23cq-wAO6KKp8jaoelvO7dOjqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480648841115-s5e2i979jhvmkjrq4cni5sft8su9p9f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
